@@ -477,8 +477,8 @@ $(document).ready(function ()
 			var form = $(this);
 
 					$.ajax({
-					url : "https://tailermade.com/corona/apps/dashboard/Citytravel",
-					type : "Post",
+                        url: "https://tailermade.com/savemynation/api/v1/savemynation/volunteer",
+                        type : "Post",
 					data: new FormData(this),
                     contentType: false,  
                     processData:false,
@@ -512,8 +512,8 @@ $(document).ready(function ()
 			var form = $(this);
 
 					$.ajax({
-					url : "https://tailermade.com/corona/apps/dashboard/Groceryfood",
-					type : "Post",
+                        url: "https://tailermade.com/savemynation/api/v1/savemynation/Groceryfood",
+                        type : "Post",
 					data: new FormData(this),
                     contentType: false,  
                     processData:false,
