@@ -512,8 +512,8 @@ $(document).ready(function ()
 			var form = $(this);
 
 					$.ajax({
-            url: "https://tailermade.com/savemynation/api/v1/savemynation/volunteer",
-					type : "Post",
+                        url: "https://tailermade.com/savemynation/api/v1/savemynation/Groceryfood",
+                        type : "Post",
 					data: new FormData(this),
                     contentType: false,  
                     processData:false,
