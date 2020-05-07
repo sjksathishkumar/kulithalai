@@ -23,16 +23,16 @@ body h2 {
 	font-size: 40px;
 }
 body h3 {
-	font-size: 32px;
+	font-size: 30px;
 }
 body h4 {
 	font-size: 28px;
 }
 body h5 {
-	font-size: 24px;
+	font-size: 26px;
 }
 body h6 {
-	font-size: 18px;
+	font-size: 14px;
 }
 .wf100 {
 	width: 100%;
@@ -1063,7 +1063,7 @@ a.see-more:hover {
 	list-style: none;
 }
 .emergency-info ul li {
-	line-height: 34px;
+	line-height: 25px;
 	color: rgba(255,255,255,.70);
 }
 .emergency-info ul li i {
@@ -2814,16 +2814,18 @@ li.header-weather {
 	
 }
 .Mayor-welcome p {
-	font-size: 16px;
+	font-size: 13px;
 	color: #fff;
 	line-height: 24px;
 	margin: 0 0 31px;
+	text-align: justify;
 }
 .Mayor-welcome h6 {
 	font-weight: 600;
 	color: #fff;
 	margin: 0 0 6px;
 	position: relative;
+	line-height: unset;
 }
 .Mayor-welcome strong {
 	color: #fff;
