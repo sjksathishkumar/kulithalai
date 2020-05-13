@@ -32,7 +32,7 @@ body h5 {
 	font-size: 26px;
 }
 body h6 {
-	font-size: 14px;
+	font-size: 17px;
 }
 .wf100 {
 	width: 100%;
@@ -2810,7 +2810,7 @@ li.header-weather {
 .Mayor-welcome h5 {
 	font-weight: 700;
 	color: #fff;
-	margin: 0 0 16px;
+	margin-top:50px;
 	
 }
 .Mayor-welcome p {
@@ -2823,7 +2823,7 @@ li.header-weather {
 .Mayor-welcome h6 {
 	font-weight: 600;
 	color: #fff;
-	margin: 0 0 6px;
+	margin: 10px 10px 6px;
 	position: relative;
 	line-height: unset;
 }
