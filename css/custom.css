@@ -1065,6 +1065,8 @@ a.see-more:hover {
 .emergency-info ul li {
 	line-height: 25px;
 	color: rgba(255,255,255,.70);
+	font-size: 12px;
+}
 }
 .emergency-info ul li i {
 	color: rgba(255,255,255,1);
@@ -2893,7 +2895,7 @@ li.header-weather {
 }
 .new-txt h6 {
 	line-height: 26px;
-	font-size: 20px;
+	font-size: 13px;
 	font-weight: 600;
 	margin: 0 0 15px;
 	letter-spacing: -.5px;
